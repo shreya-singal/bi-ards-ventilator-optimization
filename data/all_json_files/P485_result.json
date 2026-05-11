@@ -1,0 +1,74 @@
+{
+  "patient_id": "P485",
+  "config": {
+    "name": "P485",
+    "age": "45",
+    "category": "A",
+    "sex": "Male",
+    "BMI": "22",
+    "height": "173",
+    "weight": "66",
+    "meal_type": "iv",
+    "ards_enabled": "TRUE",
+    "ards_severity": "0.9",
+    "brain_injury_enabled": "TRUE",
+    "brain_injury_severity": "0.3",
+    "ventilation": "TRUE",
+    "ventilation_mode": "pressure control",
+    "sub_mode": "continuous mandatory ventilation",
+    "fio2": "1.0",
+    "peep": "14",
+    "inspiratory_pressure": "20",
+    "respiration_rate": "24",
+    "flow": "",
+    "tidal_volume": ""
+  },
+  "snapshots": [
+    {
+      "HeartRate": 71.9999999989269,
+      "MeanArterialPressure": 95.32341782793958,
+      "OxygenSaturation": 0.9741251041946145,
+      "ArterialOxygenPressure": 89.01932605743502,
+      "ArterialCarbonDioxidePressure": 39.41544604855489,
+      "BloodPH": 7.4194972286430785,
+      "RespirationRate": 11.999999999999963,
+      "TidalVolume": 535.2600906750494,
+      "time_hours": 0
+    },
+    {
+      "HeartRate": 134.60961670330033,
+      "MeanArterialPressure": 96.75814443491032,
+      "OxygenSaturation": 0.8871179054240207,
+      "ArterialOxygenPressure": 128.61871467348817,
+      "ArterialCarbonDioxidePressure": 273.42212688006776,
+      "BloodPH": 6.648518921046658,
+      "RespirationRate": 30.303030303030294,
+      "TidalVolume": 113.9418716054288,
+      "time_hours": 2.0
+    },
+    {
+      "HeartRate": 138.53175754864606,
+      "MeanArterialPressure": 96.60352532407023,
+      "OxygenSaturation": 0.8811330793503519,
+      "ArterialOxygenPressure": 130.656036743927,
+      "ArterialCarbonDioxidePressure": 288.5805648050909,
+      "BloodPH": 6.626900681640407,
+      "RespirationRate": 30.303030303030294,
+      "TidalVolume": 113.9418716054237,
+      "time_hours": 4.0
+    },
+    {
+      "HeartRate": 143.9826400780897,
+      "MeanArterialPressure": 96.16949384473908,
+      "OxygenSaturation": 0.8756430669230606,
+      "ArterialOxygenPressure": 129.62876925105903,
+      "ArterialCarbonDioxidePressure": 291.54062840395784,
+      "BloodPH": 6.622809353894466,
+      "RespirationRate": 30.303030303030294,
+      "TidalVolume": 113.94187160543369,
+      "time_hours": 6.0
+    }
+  ],
+  "error": null,
+  "success": true
+}

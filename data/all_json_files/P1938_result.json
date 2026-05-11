@@ -1,0 +1,74 @@
+{
+  "patient_id": "P1938",
+  "config": {
+    "name": "P1938",
+    "age": "45",
+    "category": "A",
+    "sex": "Male",
+    "BMI": "22",
+    "height": "173",
+    "weight": "66",
+    "meal_type": "iv",
+    "ards_enabled": "TRUE",
+    "ards_severity": "0.6",
+    "brain_injury_enabled": "TRUE",
+    "brain_injury_severity": "0.3",
+    "ventilation": "TRUE",
+    "ventilation_mode": "volume control",
+    "sub_mode": "assisted control",
+    "fio2": "1.0",
+    "peep": "14",
+    "inspiratory_pressure": "",
+    "respiration_rate": "24",
+    "flow": "50",
+    "tidal_volume": "700"
+  },
+  "snapshots": [
+    {
+      "HeartRate": 71.9999999989269,
+      "MeanArterialPressure": 95.32341782793958,
+      "OxygenSaturation": 0.9741251041946145,
+      "ArterialOxygenPressure": 89.01932605743502,
+      "ArterialCarbonDioxidePressure": 39.41544604855489,
+      "BloodPH": 7.4194972286430785,
+      "RespirationRate": 11.999999999999963,
+      "TidalVolume": 535.2600906750494,
+      "time_hours": 0
+    },
+    {
+      "HeartRate": 58.08700095700612,
+      "MeanArterialPressure": 94.90245780790133,
+      "OxygenSaturation": 0.9999756743439328,
+      "ArterialOxygenPressure": 1152.5916249177199,
+      "ArterialCarbonDioxidePressure": 34.57840766983535,
+      "BloodPH": 7.471280506000409,
+      "RespirationRate": 0.0,
+      "TidalVolume": 0.0,
+      "time_hours": 2.0
+    },
+    {
+      "HeartRate": 60.60832269449349,
+      "MeanArterialPressure": 95.45099649812629,
+      "OxygenSaturation": 0.9999749097806867,
+      "ArterialOxygenPressure": 1148.8964849939812,
+      "ArterialCarbonDioxidePressure": 35.44342236964913,
+      "BloodPH": 7.461669046919303,
+      "RespirationRate": 0.0,
+      "TidalVolume": 0.0,
+      "time_hours": 4.0
+    },
+    {
+      "HeartRate": 64.4462741887251,
+      "MeanArterialPressure": 94.9350711500189,
+      "OxygenSaturation": 0.9998963057688905,
+      "ArterialOxygenPressure": 629.1494015310594,
+      "ArterialCarbonDioxidePressure": 28.757738540316836,
+      "BloodPH": 7.543837714750438,
+      "RespirationRate": 24.000000000000014,
+      "TidalVolume": 787.258421907322,
+      "time_hours": 6.0
+    }
+  ],
+  "error": null,
+  "success": true
+}
