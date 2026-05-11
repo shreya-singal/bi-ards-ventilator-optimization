@@ -208,6 +208,16 @@ streamlit run app/app.py
 
 ---
 
+## Streamlit Dashboard
+
+### Main Interface
+
+![Dashboard](assets/dashboard-1.png)
+
+### Feature Importance and Top Configurations
+
+![Analysis](assets/dashboard-2.png)
+
 ## Results
 
 The optimized recommendations showed:
